@@ -1,0 +1,15 @@
+enum34                    1.1.6                     <pip>
+h5py                      2.10.0                    <pip>
+Keras                     2.3.1                     <pip>
+Keras-Applications        1.0.8                     <pip>
+Keras-Preprocessing       1.1.0                     <pip>
+matplotlib                3.0.2                     <pip>
+numpy                     1.17.4                    <pip>
+Pillow                    5.4.1                     <pip>
+python                    3.5.4               h1357f44_23
+scikit-learn              0.20.2                    <pip>
+scipy                     1.2.0                     <pip>
+tensorboard               1.15.0                    <pip>
+tensorflow-estimator      1.15.1                    <pip>
+tensorflow-gpu            1.15.0                    <pip>
+tensorflow-tensorboard    0.4.0rc3                  <pip>
